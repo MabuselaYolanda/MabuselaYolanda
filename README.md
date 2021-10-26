@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on some secret things!!!
 - 🌱 I’m currently learning ML & Cloud Stuff
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with n/a
+- 🤔 I’m looking for help with nothing for now.
 - 💬 Ask me about Community building, Java & Python 
 - 📫 How to reach me: yolanda.mabusela@gmail.com
 - 😄 Pronouns: She/Her
